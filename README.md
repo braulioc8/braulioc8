@@ -32,7 +32,3 @@ Cuento con una certificación en metodología Scrum, lo que me permite gestionar
 | Gestión en Sector Construcción | **Infraestructura:** Linux, Docker | |
 ### Actividad en GitHub
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=braulioc8&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braulioc8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</div>
