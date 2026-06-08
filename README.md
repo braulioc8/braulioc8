@@ -20,31 +20,19 @@ Cuento con una certificación en metodología Scrum, lo que me permite gestionar
 
 * **Gestión B2B:** Desarrollando e integrando la arquitectura backend para plataformas de gestión de propiedades y rentas (Allora).
 * **Modernización Industrial:** Transformando software legacy (Java Swing) en potentes sistemas web de gestión de operaciones para el sector de la construcción usando Vaadin y Spring Boot.
-* **Domótica e IA:** Explorando sistemas de control inteligente local-first integrando modelos de lenguaje (Ollama) con hardware físico a través del proyecto Nexus OS.
+* **Domótica e IA:** Explorando sistemas de control inteligente local-first integrando modelos de lenguaje (Ollama) con hardware físico.
 
-### Mapa de Conocimientos y Proyectos
+### Estructura de Conocimientos y Proyectos
 
-```mermaid
-graph TD
-    A[Braulio Cajas] --> B(Ingeniería Civil)
-    A --> C(Desarrollo Full Stack)
-    A --> D(Gestión y Proyectos)
+| Ingeniería Civil | Desarrollo Full Stack | Gestión y Proyectos |
+| :--- | :--- | :--- |
+| Formación en la Escuela Politécnica Nacional | **Backend:** Java, Spring Boot, Vaadin | **Metodología:** Certificación Scrum |
+| Diseño Estructural y AutoCAD | **Data & API:** Python, FastAPI, Pandas |  |
+| Cálculo de Cimentaciones | **Frontend & Mobile:** React, Next.js, Flutter |  |
+| Gestión en Sector Construcción | **Infraestructura:** Linux, Docker | |
+### Actividad en GitHub
 
-    B --> B1[Escuela Politécnica Nacional]
-    B --> B2[Diseño Estructural y AutoCAD]
-    B --> B3[Cálculo de Cimentaciones]
-
-    C --> C1[Backend: Java, Spring Boot, Vaadin]
-    C --> C2[Data & API: Python, FastAPI, Pandas]
-    C --> C3[Frontend & Mobile: React, Next.js, Flutter]
-    C --> C4[Infraestructura: Linux, Docker]
-
-    D --> D1[Certificación Scrum]
-    D --> D2[Allora: Plataforma PropTech]
-    D --> D3[Nexus OS: Domótica con Ollama]
-    D --> D4[Trading Cuantitativo y APIs]
-
-    style A fill:#0d1117,stroke:#2ea043,stroke-width:3px,color:#fff
-    style B fill:#161b22,stroke:#3fb950,color:#c9d1d9
-    style C fill:#161b22,stroke:#3fb950,color:#c9d1d9
-    style D fill:#161b22,stroke:#3fb950,color:#c9d1d9
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=braulioc8&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braulioc8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</div>
